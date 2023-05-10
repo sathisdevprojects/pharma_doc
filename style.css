@@ -1,0 +1,33 @@
+p {
+  text-indent: 30px;
+  text-align: justify;
+}
+#rentalcss {
+  margin-top: 600px;
+}
+#legalcss {
+  margin-top: 950px;
+}
+#pharmcss {
+  margin-top: 1200px;
+  margin-bottom: 800px;
+}
+#foradd {
+  margin-top: 700px;
+}
+.cov {
+  margin-left: 70px;
+}
+table {
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+  width: 100%;
+}
+tr,
+td {
+  border: 1px solid black;
+}
+#deccss {
+  margin-top: 150px;
+}
